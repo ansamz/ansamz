@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently doing a Data Science bootcamp at SIT academy in Zürich. 
-- :weight_lifting: I’m currently learning these Data Science topics (Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning and Natural Language Processing).
+- :weight_lifting: Learning these Data Science topics: Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning and Natural Language Processing.
 - 🌱 I have a background in pharmacy.
 - 👯 I’m looking to collaborate on Data Science projects especially in the medical field.
 - 🤔 I’m really fascinated by Image Classification and Natural Language Processing. 
