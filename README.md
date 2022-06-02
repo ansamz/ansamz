@@ -2,7 +2,7 @@
 
 
 - 🔭 Junior data analyst, working as a data science teaching assistant at SIT academy. 
-- :weight_lifting: Learning these Data Science topics: Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning and Natural Language Processing.
+- :weight_lifting: Graduated from SIT academy data science bootcamp where I studied: Python, Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning, Natural Language Processing, SQL, MongoDB and MLOps.
 - 🌱 Background in pharmacy.
 - 👯 Looking to collaborate on Data Science projects especially in the medical field.
 - 🤔 Fascinated by Image Classification and Natural Language Processing. 
