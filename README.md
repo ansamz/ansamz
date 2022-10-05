@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Ansam Zedan
 
 
-- 🔭 Junior data analyst, working as a data science teaching assistant at SIT academy. 
+- 🔭 Data analyst, working as a data science teaching assistant at SIT academy. 
 - :weight_lifting: Graduated from SIT academy data science bootcamp where I studied: Python, Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning, Natural Language Processing, SQL, MongoDB and MLOps.
 - 🌱 Background in pharmacy.
 - 👯 Looking to collaborate on Data Science projects especially in the medical field.
