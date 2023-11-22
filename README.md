@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Ansam Zedan
 
 
-- 🔭 Data analyst, working as a data science Entwicklungsingenieurin (development engineer) at Reishauer. 
+- 🔭 Data Scientist, working as an Entwicklungsingenieurin (development engineer) at Reishauer. 
 - :weight_lifting: Data Science Master Student at HSLU. Graduated from SIT academy data science bootcamp where I studied: Python, Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning, Natural Language Processing, SQL, MongoDB and MLOps.
 - 🌱 Background in pharmacy.
 - 👯 Looking to collaborate on Data Science projects especially in the medical field.
